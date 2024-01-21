@@ -1,0 +1,5 @@
+
+cizgili        90   kirmizi      2350        15
+cizgili  120sayfa     Siyah       150        25
+cizgisiz   90sayfa     Beyaz       789        95
+Kareli  120sayfa     Siyah       500        95

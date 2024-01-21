@@ -1,0 +1,4 @@
+
+tukenmez     siyah        85        10
+dolma     Siyah       500        80
+uclu      mavi        79       150

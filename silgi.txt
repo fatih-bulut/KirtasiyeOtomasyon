@@ -1,0 +1,5 @@
+
+Kucuk       147        12
+Kucuk       250        15
+Orta       450        20
+Buyuk       500        25
